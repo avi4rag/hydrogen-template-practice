@@ -1,0 +1,32 @@
+body{background-color:rgb(240, 18, 18) (100, 27, 0, 0.96);
+background-color: rgba(212, 227, 10, 0.005);
+color: rgba(138, 29, 14, 0.925);}
+h1{color: rgb(236, 11, 11); font-size: 3em; text-align:left ; margin-top: 30px;       }
+h1{hover{color: rgb(211, 105, 105); font-size: 3em; text-align:left ; margin-top: 30px;       }}
+
+
+
+
+button{background-color: rgba(220, 220, 198, 0.833); color: rgba(219, 24, 24, 0); padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;}
+button:hover{background-color: rgb(234, 23, 23);}
+
+center{color: rgb(188, 25, 25); font-size: 1em; text-align: center; margin-top: 10px;}
+center:hover{color: rgb(16, 43, 139); font-size: 1em; text-align: center; margin-top: 10px;}
+a{color: rgb(234, 9, 9); text-decoration: none;}
+
+#random{color: rgb(62, 33, 33); font-size: 1.5em; text-align: left; margin-top: 20px;}
+#random:hover{color: rgb(221, 15, 15); font-size: 1.5em; text-align: left; margin-top: 20px;}
+img{border: 5px solid rgba(31, 31, 30, 0.964); border
+#random2{color: rgb(35, 10, 52); font-size: 1.5em; text-align: left; margin-top: 20px;}
+#random2:hover{color: rgb(139, 43, 216); font-size: 1.5em; text-align: left; margin-top: 20px;}-radius: 10px;}
+img:hover{border: 5px solid rgba(255,
+    0, 0, 0.966); border-radius: 10px;}
+    #random3{color: rgb(112, 128, 33); font-size: 1.5em; text-align: left; margin-top: 20px;}
+#random3:hover{color: rgb(139, 216, 43); font-size: 1.5em; text-align: left; margin-top: 20px;}
+label{color: rgba(17, 16, 16, 0.966); font-size: 1.2em;}
+label:hover{color: rgb(10, 28, 231); font-size: 1.2em;}
+input[type="text"], input[type="email"], input[type="message"]{width:
+    100%; padding: 10px; margin: 10px 0; border: 1px solid rgba(0, 0, 0, 0.432); border-radius: 5px;}   
+input[type="text"]:hover, input[type="email"]:hover, input[type="message"]:hover{border: 1px solid rgba(255, 0, 0, 0.432); border-radius: 5px;}
+input[type="submit"]{background-color: rgba(41, 201, 12, 0.252); color: rgb(29, 27, 27); padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;}
+input[type="submit"]:hover{background-color: rgb(234, 23, 23);}
